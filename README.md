@@ -3,12 +3,10 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20AWS%20Engineer&center=true&width=800&height=40&color=ffffff&vCenter=true&pause=1000&size=25" /> <br> 
   </p>
-</a> 
+</a>
 
-# 📊 GitHub Stats:
 <a href="https://github.com/noordaudi" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noordaudi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" align="center", width="365rem">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noordaudi&theme=highcontrast&hide_border=false" align="center", width="400rem"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=noordaudi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" align="center", width="365rem"><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noordaudi&theme=github-compact">
 </a>
 
